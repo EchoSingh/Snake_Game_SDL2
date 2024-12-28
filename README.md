@@ -1,9 +1,10 @@
-# 🐍 Snake Game
+# [![wakatime](https://wakatime.com/badge/github/EchoSingh/SnakeGame.svg)](https://wakatime.com/badge/github/EchoSingh/SnakeGame)🐍 Snake Game
 
 
 https://github.com/user-attachments/assets/95bbca7f-8062-4418-8b80-b4aa8989fe55
 
 
+[![wakatime](https://wakatime.com/badge/github/EchoSingh/SnakeGame.svg)](https://wakatime.com/badge/github/EchoSingh/SnakeGame)
 A classic Snake Game with textured graphics, powered by SDL2 and C++. Enjoy the nostalgic gameplay with modern visuals!
 
 ## 🎮 Features
